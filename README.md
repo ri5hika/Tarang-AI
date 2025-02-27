@@ -22,7 +22,7 @@ pip install -r requirements.txt
 5. Fill in the parameters to get water safety AI based prediction.
 
 # Project Structure
-Tarang-AI/
+TarangAI/
 
 ├── rfc.py                  
 
